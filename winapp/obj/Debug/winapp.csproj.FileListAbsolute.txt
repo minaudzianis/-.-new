@@ -1,0 +1,55 @@
+C:\Users\Denis\source\repos\winapp\winapp\bin\Debug\winapp.exe.config
+C:\Users\Denis\source\repos\winapp\winapp\bin\Debug\winapp.exe
+C:\Users\Denis\source\repos\winapp\winapp\bin\Debug\winapp.pdb
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.Form1.resources
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.Form2.resources
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.Properties.Resources.resources
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.exe
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.pdb
+C:\Users\Denis\source\repos\winapp\winapp\obj\Debug\winapp.Form3.resources
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\bin\Debug\winapp.exe.config
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\bin\Debug\winapp.exe
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\bin\Debug\winapp.pdb
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.Form1.resources
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.Form2.resources
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.Form3.resources
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.Properties.Resources.resources
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.exe
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.pdb
+C:\Users\Denis\Desktop\Немецкий. ЭОР\winapp\obj\Debug\winapp.Form4.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\bin\Debug\winapp.exe.config
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\bin\Debug\winapp.exe
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\bin\Debug\winapp.pdb
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.Form1.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.Properties.Resources.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.exe
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.pdb
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.StForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.TextForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.ExForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР old\winapp\obj\Debug\winapp.InfoForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.GramForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.StForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.Form1.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.TextForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.ExForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.InfoForm.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.Properties.Resources.resources
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.exe
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.pdb
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\bin\Debug\winapp.exe.config
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\bin\Debug\winapp.exe
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\bin\Debug\winapp.pdb
+C:\Users\Denis\source\repos\Немецкий. ЭОР new\winapp\obj\Debug\winapp.PassForm.resources
